@@ -212,3 +212,4 @@ data/
 *.pt
 *.json
 *.tmp
+checkpoints/
